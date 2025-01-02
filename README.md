@@ -1,4 +1,4 @@
-### Hi there 👋, Hello, my name is Mili Akhter
+### Hello, my name is Mili Akhter
 #### I’m involved in web development.
 ![I’m involved in web development.](https://media.licdn.com/dms/image/v2/D5616AQEMvDIE58Dz5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728921069657?e=1741219200&v=beta&t=5-ZCJpkO_Q6PZGpSt5x1nkU-yrixj-E_s9y4qBI6X8w)
 
