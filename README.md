@@ -4,10 +4,10 @@
 
 Hello! I’m Mili Akhter. I am currently pursuing my studies in web development and expanding my skills in web design. As a Front-End Developer and Junior Full-Stack Developer, I am passionate about creating responsive and interactive websites. If you have any questions or need assistance related to my skills, please feel free to reach out.
 
-Skills: Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap | Javascript | React.js | MongoDB 
+Skills: Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap | Javascript | React.js | MongoDB | Firebase
 
 - 🔭 I’m currently working on I’m currently working on personal projects to improve my web development skills  
-- 🌱 I’m currently learning I’m currently learning I’m currently exploring backend development with Node.js and Express. 
+- 🌱 I’m currently learning also I’m currently exploring backend development with Node.js and Express.js. 
 - 💬 Ask me about  Ask me about Web Development  
 - 📫 How to reach me: How to reach me:<p>To reach me, feel free to connect on <a href="https://www.linkedin.com/in/mili-akther-88a0bb227/" target="_blank">LinkedIn</a>.</p>  
 
