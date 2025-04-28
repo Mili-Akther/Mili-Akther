@@ -9,7 +9,7 @@ Skills: Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap | Javascript | React.js 
 - 🔭 I’m currently working on I’m currently working on personal projects to improve my web development skills  
 - 🌱 I’m currently learning also I’m currently exploring backend development with Node.js and Express.js. 
 - 💬 Ask me about  Ask me about Web Development  
-- 📫 How to reach me: How to reach me:<p>To reach me, feel free to connect on <a href="https://www.linkedin.com/in/mili-akther-88a0bb227/" target="_blank">LinkedIn</a>.</p>  
+- 📫 How to reach me: <p>To reach me, feel free to connect on <a href="https://www.linkedin.com/in/mili-akther-88a0bb227/" target="_blank">LinkedIn</a>.</p>  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mili-Akther)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mili-akther-88a0bb227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mili.akther)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mili.akter.milu/)  
