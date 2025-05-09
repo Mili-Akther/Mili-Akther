@@ -1,5 +1,5 @@
 
-![I’m involved in web development.](https://media.licdn.com/dms/image/v2/D5616AQEMvDIE58Dz5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728921069657?e=1747267200&v=beta&t=tHFftFfceyjDiUtaT4hiVfOOLQbuPFXFZY-C4vGoh6M)
+![I’m involved in web development.](https://media.licdn.com/dms/image/v2/D5616AQFt8ns9FYP0fw/profile-displaybackgroundimage-shrink_350_1400/B56Zazl9pPGkAc-/0/1746769796386?e=1752105600&v=beta&t=rn3ui-MXiKmW0DUBwWgeHWVALaGRBbh0lzShQW83Z6s)
 
 I’m <strong>Mili Akhter</strong> — currently focused on web development and deepening my understanding of user interface design. As a Front-End Developer and Junior Full-Stack Developer, I enjoy building responsive and interactive websites. Feel free to reach out if you have questions or need support related to my skills.
 
