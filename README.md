@@ -5,13 +5,14 @@ I’m <strong>Mili Akhter</strong> — currently focused on web development and 
 
 
   🔭 I’m currently working on personal projects to improve my web development skills<br/>
-  🌱 I’m exploring backend development with Node.js and Express.js<br/>
+  🌱 I’m exploring backend development with Node.js and Express.js <br/>
   💬 Ask me about Web Development<br/>
   📫 Connect with me on <a href="https://www.linkedin.com/in/mili-akther-88a0bb227/" target="_blank">LinkedIn</a>
 
 <div align="center">
   
 # My Social Presence
+
 <p align="center">
   <a href="https://facebook.com/mili.akther.1441" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" style="margin: 40px;" />
@@ -29,11 +30,10 @@ I’m <strong>Mili Akhter</strong> — currently focused on web development and 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" style="margin: 40px;" />
   </a>
 </p>
-
-
 </div>
 
-<br/>
+
+
 <div align="center">
 
 # My Toolbox
