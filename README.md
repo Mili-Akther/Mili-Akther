@@ -64,16 +64,12 @@ I’m <strong>Mili Akhter</strong> — currently focused on web development and 
 
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Mili-Akther&icon=5&color=2" />
+  <a href="https://komarev.com/ghpvc/?username=Mili-Akther">
+    <img src="https://komarev.com/ghpvc/?username=Mili-Akther&style=flat-square&color=blue" alt="Profile Views" />
   </a>
 </p>
 
 
-<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Mili-Akther&icon=5&color=2)](https://visitcount.itsvg.in)
-
-</div>
 
 
