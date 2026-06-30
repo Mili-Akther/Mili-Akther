@@ -1,13 +1,6 @@
 
-![I’m involved in web development.](https://media.licdn.com/dms/image/v2/D5616AQFt8ns9FYP0fw/profile-displaybackgroundimage-shrink_350_1400/B56Zazl9pPGkAc-/0/1746769796386?e=1752105600&v=beta&t=rn3ui-MXiKmW0DUBwWgeHWVALaGRBbh0lzShQW83Z6s)
-
 I’m <strong>Mili Akhter</strong> — currently focused on web development and deepening my understanding of user interface design. As a Front-End Developer and Junior Full-Stack Developer, I enjoy building responsive and interactive websites. Feel free to reach out if you have questions or need support related to my skills.
 
-
-  🔭 I’m currently working on personal projects to improve my web development skills<br/>
-  🌱 I’m exploring backend development with Node.js and Express.js <br/>
-  💬 Ask me about Web Development<br/>
-  📫 Connect with me on <a href="https://www.linkedin.com/in/mili-akther-88a0bb227/" target="_blank">LinkedIn</a>
 
 <div align="center">
   
