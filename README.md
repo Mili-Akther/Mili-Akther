@@ -1,5 +1,7 @@
 
-I’m <strong>Mili Akhter</strong> — currently focused on web development and deepening my understanding of user interface design. As a Front-End Developer and Junior Full-Stack Developer, I enjoy building responsive and interactive websites. Feel free to reach out if you have questions or need support related to my skills.
+I’m <strong>Mili Akhter</strong> — Diploma in Engineering graduate, Computer Science & Technology — now pursuing my BSc in CSE at East Delta University, Chittagong.
+
+I'm a Front-End Developer and Junior Full-Stack Developer focused on web development and UI design. I enjoy building responsive, interactive websites — feel free to reach out if you have questions or want to collaborate.
 
 
 <div align="center">
