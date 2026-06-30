@@ -47,10 +47,9 @@ I’m <strong>Mili Akhter</strong> — currently focused on web development and 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mili-Akther&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /> <br/> <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mili-Akther&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" /><br/> <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mili-Akther&theme=highcontrast&hide_border=false" /><br/> 
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Mili-Akther&theme=highcontrast&hide_border=false&layout=compact" /> <br/> <br/>
+<img src="https://github-stats-extended.vercel.app/api?username=Mili-Akther&theme=highcontrast&hide_border=false" /><br/> <br/>
+<img src="https://streak-stats.demolab.com?user=Mili-Akther&theme=highcontrast&hide_border=false" /><br/>
 </p>
 
 
